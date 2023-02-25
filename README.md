@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm Dhanabordee Mekintharanggur</h1>
 <h3 align="center">An aspiring software engineer, UI/UX designer, and a life-long learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pointmekin&label=Profile%20views&color=0e75b6&style=flat" alt="pointmekin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pointmekin&label=Profile%20views&color=0e75b6&style=flat" alt="pointmekin" /> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
 - A passionate self-taught Full-stack developer, UI/UX designer
-- A life-long leaner
-- Currently a 4t-year Information and Communication Engineering student at Chulalongkorn University
+- A life-long learner
+- Currently a 4th-year Information and Communication Engineering student at Chulalongkorn University
 - I'm working on my Final Project, an NFT-based event ticketing system called **Warden**. Check it out [here](https://warden-ticket.netlify.app/)
 - Personal website [link](https://dhanabordeem.site)
 - I’m currently open for a full-time job opportunity, check out my [resume](https://drive.google.com/drive/folders/1TTybFkX_Qt7DNtaTC23M1RgtcHTRQpU3) and [cv](https://drive.google.com/drive/folders/1aOLWwlnKE9PGWY1gIVLAqfuvQ7D1LVAu)
 
 <br>
 
+
+
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br>
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 100px></picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhanabordee-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanabordee-m" height="30" width="40" /></a>
@@ -32,9 +37,10 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Stats            |  Streak
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=pointmekin&show_icons=true&locale=en)  |  ![](https://streak-stats.demolab.com/?user=pointmekin)
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pointmekin&show_icons=true&locale=en" alt="pointmekin" width=440px/> </p>
+
+<p align="left"> <img src="https://streak-stats.demolab.com/?user=pointmekin" alt="pointmekin" width=440px /> </p>
 
 <br>
 <br>
