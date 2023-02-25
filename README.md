@@ -23,6 +23,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [That time LINE ROOKIES migrated LINE SHOPPING to Vue 3](https://medium.com/linedevth/that-time-line-rookies-migrated-line-shopping-to-vue-3-e4a3f592ecb5?source=rss-64519afc141a------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
