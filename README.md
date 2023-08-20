@@ -11,7 +11,8 @@
 
 - A passionate self-taught Full-stack developer, UI/UX designer
 - A life-long learner
-- Currently a 4th-year Information and Communication Engineering student at Chulalongkorn University
+- Currently a Technical Architect at Kasikorn Business Technology Group
+- Chulalongkorn University Information and Communication Engineering First-Honor Graduate 
 - I'm working on my Final Project, an NFT-based event ticketing system called **Warden**. Check it out [here](https://warden-ticket.netlify.app/)
 - Personal website [link](https://dhanabordeem.site)
 - I’m currently open for a full-time job opportunity, check out my [resume](https://drive.google.com/drive/folders/1TTybFkX_Qt7DNtaTC23M1RgtcHTRQpU3) and [cv](https://drive.google.com/drive/folders/1aOLWwlnKE9PGWY1gIVLAqfuvQ7D1LVAu)
